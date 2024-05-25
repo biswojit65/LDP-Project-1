@@ -1,0 +1,34 @@
+{
+  "name": "ldp-project-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "tsx watch src/main.ts",
+    "migrate" : "drizzle-kit generate"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "argon2": "^0.40.1",
+    "drizzle-orm": "^0.30.10",
+    "fastify": "^4.27.0",
+    "fastify-guard": "^2.0.0",
+    "fastify-zod": "^1.4.0",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.11.5",
+    "pino": "^9.1.0",
+    "pino-pretty": "^11.1.0",
+    "zennv": "^0.1.1",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.6",
+    "@types/pg": "^8.11.6",
+    "drizzle-kit": "^0.21.4",
+    "tsx": "^4.11.0",
+    "typescript": "^5.4.5",
+    "zod-to-json-schema": "^3.23.0"
+  }
+}
