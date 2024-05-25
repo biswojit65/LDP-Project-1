@@ -1,0 +1,1 @@
+ALTER TABLE "userdata" ADD COLUMN "password" varchar(256) NOT NULL;

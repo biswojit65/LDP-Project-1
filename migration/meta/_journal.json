@@ -1,0 +1,41 @@
+{
+  "version": "6",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1716543438241,
+      "tag": "0000_demonic_harry_osborn",
+      "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1716544637078,
+      "tag": "0001_complex_quasimodo",
+      "breakpoints": false
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1716545058068,
+      "tag": "0002_past_iron_man",
+      "breakpoints": false
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1716545759784,
+      "tag": "0003_brainy_spyke",
+      "breakpoints": false
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1716577134566,
+      "tag": "0004_modern_dragon_man",
+      "breakpoints": false
+    }
+  ]
+}
