@@ -23,8 +23,8 @@ This project is a multi-tenanted role-based access control system built with Typ
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/biswojit65/LDP-Project-1.git
+    cd LDP-Project-1
     ```
 
 2. **Install dependencies using pnpm:**
